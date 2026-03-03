@@ -1,0 +1,27 @@
+{
+  "name": "bundle-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze JavaScript bundles. Find what's making your dist fat. No plugins required.",
+  "type": "module",
+  "bin": {
+    "bundle-analyzer": "./index.js",
+    "ba": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "bundle",
+    "webpack",
+    "performance"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/bundle-analyzer"
+  }
+}
