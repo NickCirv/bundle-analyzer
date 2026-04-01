@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # bundle-analyzer
 > Analyze JavaScript bundles. Find what's making your dist fat. No plugins required.
 
