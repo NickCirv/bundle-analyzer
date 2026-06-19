@@ -19,6 +19,9 @@
     "webpack",
     "performance"
   ],
+  "scripts": {
+    "test": "node --test"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
